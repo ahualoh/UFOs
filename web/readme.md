@@ -10,7 +10,11 @@ This webpage is rather simple, comprised of a header image, a introduction to th
 
 The filters can be used singularly, or together, meaning you can filter on more than one attribute. The four filters corresponds with the table fields: Date, City, State & Shape. The resulting table will display results that match ALL the filters applied. (The filters will apply once you click away from the filter box, or with the keystroke 'Enter' or 'Return', 'tab' etc... basically any action that will take your cursor out of the filter box).
 
+Single Filter:
 ![Single Filter](https://github.com/ahualoh/UFOs/blob/main/web/static/images/UFO_filtered.png)
+
+Multi-Filter: 
+![Multi Filter](https://github.com/ahualoh/UFOs/blob/main/web/static/images/UFO_multi-filter.png)
 
 ## Summary:
 One drawback of this webpage is its data is drawn from a static file, rather than from a live updated source, so it's only useful as it relates to the data file. 
